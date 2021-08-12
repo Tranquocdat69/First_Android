@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/WORKSPACE/Android_Projects/First_Android/app/src/main/res/drawable/bg_cycler.xml" value="0.2703125" />
         <entry key="..\:/WORKSPACE/Android_Projects/First_Android/app/src/main/res/layout/activity_chaomung.xml" value="0.19067028985507245" />
         <entry key="..\:/WORKSPACE/Android_Projects/First_Android/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/WORKSPACE/Android_Projects/First_Android/app/src/main/res/layout/activity_shopping_edit.xml" value="0.25416666666666665" />
+        <entry key="..\:/WORKSPACE/Android_Projects/First_Android/app/src/main/res/layout/activity_shopping_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/WORKSPACE/Android_Projects/First_Android/app/src/main/res/layout/item_shopping.xml" value="0.264" />
+        <entry key="..\:/WORKSPACE/Android_Projects/First_Android/app/src/main/res/menu/context_menu_shopping.xml" value="0.25416666666666665" />
+        <entry key="..\:/WORKSPACE/Android_Projects/First_Android/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
         <entry key="..\:/WORKSPACE/Android_Projects/app/src/main/res/layout/activity_main.xml" value="0.215625" />
       </map>
     </option>

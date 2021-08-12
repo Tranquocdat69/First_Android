@@ -10,7 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".MainActivity"
+            android:name=".ShoppingEditActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ShoppingListActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ShoppingAddActivity"
             android:exported="true" />
         <activity
             android:name=".SplashScreenActivity"
